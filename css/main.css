@@ -1,0 +1,17 @@
+div h1{
+    font-size: 80px;
+    font-family: Impact;
+    margin: 55px 0;
+}
+.btn-blue{
+    background-color: blue;
+}
+.p-20{
+  padding: 0 90px;
+}
+button:hover{
+    background-color: green;
+}
+.fw-2{
+    font-weight: 600;
+}
